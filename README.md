@@ -1,1 +1,1 @@
-# P15-Image-Data-Generator
+# Analysis of Model Training Results (Image Data Generator)
